@@ -81,6 +81,7 @@
 <!--        </dependency>-->
     </dependencies>
 
+<!--  将java目录下的配置文件也添加到编译后的类路径下  -->
     <build>
         <resources>
             <resource>
